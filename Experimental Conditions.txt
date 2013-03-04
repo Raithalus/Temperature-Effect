@@ -1,0 +1,12 @@
+- 4 bottle cultures of D. melanogaster were raised at 25C for ~10 days until eclosion.
+- Collected a new generation of flies for ~3 days such that the ages of the populations are roughly synchronized.
+- Collected eggs on a grape juice plate for 30 minutes (4 plates)
+- After collection peroid, moved the plates to the following temperatures (18/22/25/29C)
+- Allow plates at 22/25/29C to incubate for 2 hours; 18C for 8 hours.
+- Collect and fix as previously described etc.
+
+
+To do:
+Bicoid antibody staining
+
+
